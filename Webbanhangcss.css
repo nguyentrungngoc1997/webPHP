@@ -1,0 +1,126 @@
+*{
+	padding:0;
+	margin:0;
+}
+.wrapper
+{
+	
+	width:1000px;
+	height:auto;
+	/*border:1px solid #FFF;*/			
+	margin:auto;
+	
+	
+}
+.header
+{
+	width:100%;
+	height:120px;
+	border:1px solid #FFF;
+}
+.menu
+{
+	width: 100%;
+	height: 30px;
+	border:1px solid #FFF;
+	
+}
+.menu ul
+{
+	width:100%;
+	height: 30px;
+	list-style: none;
+}
+.menu ul li
+{
+	float: left;
+	margin-left:10px;
+}
+.menu ul li a
+{
+	color:#000;
+	text-decoration:none;
+}
+
+.menu a:hover
+{
+	text-decoration:underline;
+}
+.left
+{
+	width: 200px;
+	height:auto;
+	border:1px solid #FFF;
+	float:left;	
+}
+.danhsachsanpham ul
+{
+	width:100%;
+	height:auto;
+	list-style:none;
+}
+
+.danhsachsanpham ul li
+{
+	margin-left:10px;
+	margin:5px;
+}
+.danhsachsanpham a
+{
+	text-decoration:none;
+	color:#000;
+}
+.danhsachsanpham a:hover
+{
+	text-decoration:underline;
+}
+.right
+{
+	width:790px;
+	height:auto;
+	border:1px solid #FFF;
+	float:right;
+}
+.sanphammall ul
+{
+	width: 100%;
+	list-style:none;
+	
+}
+.sanphammall ul li
+{
+	width: 200px;
+	height: 200px;
+	border:1px solid #FFF;
+	text-align:center; 
+	float: left;
+	margin-left:30px;
+}
+.sanphammall ul li a
+{
+	text-decoration:none;
+	
+}
+.clear
+{
+	clear:both;
+	
+}
+.footer
+{
+	width:100%;
+	height:80px;
+	/*border: 1px solid #000;*/
+}
+
+
+
+.content
+{
+	width:100%;
+	height:	400px;
+	/*border:1px solid #000;*/
+	
+}
+
+
